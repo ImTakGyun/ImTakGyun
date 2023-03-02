@@ -1,8 +1,8 @@
 <div align=left>
 
-  ## 👨‍💻 Comment 
+  ## 👨‍💻 Info
 
-  안녕하세요 홍익대학교 4학년 재학중인 개발자 임탁균(ImTakGyun)입니다😀
+  안녕하세요 홍익대학교 4학년 재학중인 개발자 임탁균(ImTakGyun)입니다.
 
   <br/>
 
