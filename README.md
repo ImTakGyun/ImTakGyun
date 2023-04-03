@@ -11,9 +11,11 @@
   <div align=left>
 
   <li>홍익대학교 컴퓨터공학과 <sub>(2018.03 ~)</sub></li>
-  <li>대학생 앱 런칭 IT 연합 동아리 <a href="https://www.makeus.in/umc">UMC</a>(University Makeus Challenge) 홍익대학교 3기 Server 파트 <sub>(2022.09 ~ 2023.02)     </sub></li>
+  <li>대학생 앱 런칭 IT 연합 동아리 <a href="https://www.makeus.in/umc">UMC</a>(University Makeus Challenge) 홍익대학교 3기 BE 파트 <sub>(2022.09 ~ 2023.02)     </sub></li>
   <li>단짝 찾기 서비스 어플리케이션 <a href="https://github.com/UMC-WOWMATE/WOWMATE-Server">WOWMATE</a> 백엔드 담당 <sub>(2023.01 ~)</sub></li>
-  <li>대학생 앱 런칭 IT 연합 동아리 <a href="https://www.makeus.in/umc">UMC</a>(University Makeus Challenge) 홍익대학교 4기 Server 파트 운영진 <sub>(2023.02 ~ )     </sub></li>
+  <li>대학생 앱 런칭 IT 연합 동아리 <a href="https://www.makeus.in/umc">UMC</a>(University Makeus Challenge) 홍익대학교 4기 BE 파트 운영진 <sub>(2023.02 ~ )</sub></li>
+  <li>신촌 지역 창업 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS </a> BE 파트 17기 <sub>(2023.03 ~ )</sub></li>
+
     <br>
 
   <br><br>
