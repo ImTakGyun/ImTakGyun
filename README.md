@@ -16,9 +16,7 @@
   <li>대학생 앱 런칭 IT 연합 동아리 <a href="https://www.makeus.in/umc">UMC</a>(University Makeus Challenge) 홍익대학교 4기 BE 파트 운영진 <sub>(2023.02 ~ )</sub></li>
   <li>신촌 지역 창업 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS </a> BE 파트 17기 <sub>(2023.03 ~ )</sub></li>
 
-    <br>
-
-  <br><br>
+  <br/>
 
   ## 🛠 Tech Stacks 
 
