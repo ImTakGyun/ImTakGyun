@@ -15,7 +15,7 @@
   <li>단짝 찾기 서비스 어플리케이션 <a href="https://github.com/UMC-WOWMATE/WOWMATE-Server">WOWMATE</a> BE 담당 <sub>(2023.01 ~ 2023.03)</sub></li>
   <li>대학생 앱 런칭 IT 연합 동아리 <a href="https://www.makeus.in/umc">UMC</a>(University Makeus Challenge) 홍익대학교 4기 BE 파트 운영진 <sub>(2023.02 ~ 2023.08)</sub></li>
   <li>신촌 지역 창업 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS </a> BE 파트 17기 <sub>(2023.03 ~ 2023.08)</sub></li>
-  <li>댄서들을 위한 플랫폼 <a href="https://www.dan-sup.com">DAN-SUP</a> BE 담당 <sub>(2023.07 ~ 2023.08)</sub></li>
+  <li>댄서들을 위한 플랫폼 <a href="https://www.dan-sup.com">DAN-SUP</a> BE 담당 <sub>(2023.07 ~ )</sub></li>
 
   <br/>
 
@@ -23,7 +23,6 @@
 
 
   #### 📌 Programming Languages
-  ![image](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
   ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
   ![image](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
   ![image](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -39,7 +38,6 @@
   #### 📌 Backend
   ![image](https://img.shields.io/badge/Spring-6DB33F?style=flat-squaree&logo=spring&logoColor=white)
   ![image](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot)
-  ![image](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
   ![image](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
   ![image](https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
